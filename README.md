@@ -22,3 +22,14 @@
 - [Scikit Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
 - [A Practical Introduction to K-Nearest Neighbors](https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/)
 - [Model persistence](https://scikit-learn.org/stable/modules/model_persistence.html)
+
+### Another one
+You can have a look at my favourite resources I have found over the years:
+
+1. Start with [this article](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) series and [this comic](https://cloud.google.com/products/ai/ml-comic-1/)
+
+2. Follow [this slide deck](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90)
+
+3. Follow [this great guide](https://vas3k.com/blog/machine_learning/)
+
+4. Finally, you can start practice coding using [this great github repo](https://github.com/madewithml/practicalAI)
